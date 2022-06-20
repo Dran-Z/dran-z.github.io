@@ -1,5 +1,5 @@
 ---
-title: Quantum Wheatstone-Bridge
+title: Quantum Wheatstone Bridge
 ---
 
 test1
