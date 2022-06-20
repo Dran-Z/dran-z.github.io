@@ -6,3 +6,7 @@ layout: Post
 permalink: /
 title: Jekyll Garden
 ---
+
+Welcome to my personal page. 
+
+![Alt Text](/assets/img/personal-photon.jpg "Title Here")
