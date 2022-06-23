@@ -1,5 +1,6 @@
 ---
 title: Quantum Wheatstone Bridge
+format: post
 ---
 
 test1
