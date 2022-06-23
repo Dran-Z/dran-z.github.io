@@ -9,4 +9,4 @@ title: Jekyll Garden
 
 Welcome to my personal page. 
 
-![Alt Text](/assets/img/personal-photon.jpg "Title Here")
+[Alt Text](/assets/img/personal-photo.jpg "Title Here")
