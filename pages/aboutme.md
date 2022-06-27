@@ -4,7 +4,7 @@ layout: Post
 content-type: static
 title: About me
 ---
-[](/assets/img/personal-photo.jpg)
+![](/assets/img/personal-photo.jpg)
 
 I am currently a master student at Qutech(TU Delft) in the Borregaard Group, supported by TU Delft Excellence Scholarship. Before I came to Delft, I obtained my bachelor degree in engineering mechanics at Tsinghua University in 2020. Zheng is my family name.
 
