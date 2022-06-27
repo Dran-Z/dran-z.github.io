@@ -1,5 +1,6 @@
 ---
 title : Quantum Learning Advantages
+feed : show
 date : 27-6-2022
 ---
 
