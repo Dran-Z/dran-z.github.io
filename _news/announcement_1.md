@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Website created.
+Website recreated.

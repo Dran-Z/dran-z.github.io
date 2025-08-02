@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: FirstName.LastName@yale.edu
+subtitle: 
 
 profile:
   align: right
