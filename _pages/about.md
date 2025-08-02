@@ -6,7 +6,7 @@ subtitle: FirstName.LastName@yale.edu
 
 profile:
   align: right
-  image: YZ_pic.jpg
+  image: YZ_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
 
