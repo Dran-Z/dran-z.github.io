@@ -57,6 +57,9 @@ ninja.data = [{
             },},{id: "news-website-recreated",
           title: 'Website recreated.',
           description: "",
+          section: "News",},{id: "news-work-from-magic-state-distillation-to-dynamical-systems-has-been-accepted-by-quantum",
+          title: 'Work “From Magic State Distillation to Dynamical Systems” has been accepted by Quantum!...',
+          description: "",
           section: "News",},{
         id: 'social-linkedin',
         title: 'LinkedIn',
