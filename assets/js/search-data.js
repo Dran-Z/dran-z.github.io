@@ -60,6 +60,9 @@ ninja.data = [{
           section: "News",},{id: "news-work-from-magic-state-distillation-to-dynamical-systems-has-been-accepted-by-quantum",
           title: 'Work “From Magic State Distillation to Dynamical Systems” has been accepted by Quantum!...',
           description: "",
+          section: "News",},{id: "news-new-preprint-magic-gate-teleportation-structure-useful-resource-states-and-simpler-feedforward-is-out",
+          title: 'New preprint “Magic Gate Teleportation: Structure, Useful Resource States, and Simpler Feedforward” is...',
+          description: "",
           section: "News",},{
         id: 'social-linkedin',
         title: 'LinkedIn',
