@@ -63,6 +63,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-preprint-magic-gate-teleportation-structure-useful-resource-states-and-simpler-feedforward-is-out",
           title: 'New preprint “Magic Gate Teleportation: Structure, Useful Resource States, and Simpler Feedforward” is...',
           description: "",
+          section: "News",},{id: "news-our-work-on-magic-gate-teleportation-has-been-accepted-as-a-talk-at-the-2026-squint-workshop",
+          title: 'Our work on Magic Gate Teleportation has been accepted as a talk at...',
+          description: "",
           section: "News",},{
         id: 'social-linkedin',
         title: 'LinkedIn',
