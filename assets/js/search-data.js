@@ -66,6 +66,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-on-magic-gate-teleportation-has-been-accepted-as-a-talk-at-the-2026-squint-workshop",
           title: 'Our work on Magic Gate Teleportation has been accepted as a talk at...',
           description: "",
+          section: "News",},{id: "news-our-work-fragility-of-magic-state-distillation-under-imperfect-measurements-has-been-published-in-npj-quantum-information",
+          title: 'Our work “Fragility of Magic State Distillation under Imperfect Measurements” has been published...',
+          description: "",
           section: "News",},{
         id: 'social-linkedin',
         title: 'LinkedIn',
