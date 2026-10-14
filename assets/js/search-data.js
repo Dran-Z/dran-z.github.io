@@ -69,6 +69,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-fragility-of-magic-state-distillation-under-imperfect-measurements-has-been-published-in-npj-quantum-information",
           title: 'Our work “Fragility of Magic State Distillation under Imperfect Measurements” has been published...',
           description: "",
+          section: "News",},{id: "news-i-visited-narayanan-rengaswamy-s-group-at-the-university-of-arizona",
+          title: 'I visited Narayanan Rengaswamy’s group at the University of Arizona!',
+          description: "",
           section: "News",},{
         id: 'social-linkedin',
         title: 'LinkedIn',
